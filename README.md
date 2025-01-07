@@ -34,6 +34,11 @@ A customizable Discord bot designed to enhance server engagement with unique fea
 - **Technologies**: Python, Discord API  
 - **Key Features**: Command automation, server management tools, and modular design.  
 
+### 🖥️ [Moving Cat Website](https://github.com/KittehKun/Moving-Cat-Website)
+A fun little project where a random cat picture is loaded to the webpage and bounces around the borders of the user's screen.
+- **Technologies:**: Astro, Javascript, CSS
+- **Key Features**: Fun project, Front-End design, CSS
+
 ---
 
 ## 📈 GitHub Stats  
