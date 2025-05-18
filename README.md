@@ -1,43 +1,54 @@
-# 👋 Welcome to KittehKun's GitHub! 🐾
+# 👋 Welcome to KittehKun's GitHub!
 
-Hi there! I'm **Zachary** or better known online as **KittehKun**, a passionate **game developer, web developer, and IT specialist** with a flair for creating immersive experiences and solving technical challenges. My journey in tech spans game design, programming, and IT support, and I love bringing ideas to life through code and collaboration.  
+Hey! I'm **Zachary**, better known online as **KittehKun**, a passionate **game & web developer + IT specialist** focused on crafting immersive VR experiences and solving real-world tech challenges.  
+I blend creativity and technical skill to build projects that are as functional as they are fun.
 
 ---
 
 ## 🖥️ About Me  
 
-- 🎮 **Game Developer**: Creator of *Raiders of Haven* and other virtual worlds in VRChat, combining compelling design and optimized gameplay mechanics.  
-- 🌐 **Web Developer**: Experienced in building full-stack applications with frameworks like Spring Boot, Bootstrap, and jQuery.  
-- 💻 **IT Specialist**: Skilled in system troubleshooting, ticket resolution, and ensuring seamless user experiences.  
-- 🛠️ **Lifelong Learner**: Always exploring new tools, technologies, and methodologies to grow my skills.  
+- 🎮 **Game Developer**  
+  Creator of *Raiders of Haven* and other engaging VRChat worlds, blending game design with performance-optimized code.  
+- 🌐 **Web Developer**  
+  Building modern, scalable web apps using **React**, **TypeScript**, and **Tailwind CSS**, plus experience with Spring Boot and legacy stacks like Bootstrap and jQuery.  
+- 💻 **IT Specialist**  
+  Skilled in troubleshooting, system management, and delivering smooth user experiences.  
+- 🛠️ **Lifelong Learner**  
+  Constantly leveling up with new frameworks, tools, and coding best practices.  
 
 ---
 
 ## 🔧 Skills  
 
-- **Programming Languages**: C#, Python, JavaScript, HTML, CSS  
-- **Game Development**: Unity, Blender, VRChat SDK, GitHub for version control  
-- **Web Development**: Spring Boot, SQL, Bootstrap, jQuery  
-- **IT Proficiency**: Active Directory, SCCM, ticket management, hardware/software troubleshooting  
+- **Programming:** C#, Python, JavaScript, TypeScript, HTML, CSS  
+- **Game Dev Tools:** Unity, Blender, VRChat SDK, Git, GitHub  
+- **Frontend:** React, Tailwind CSS, Vite, Bootstrap  
+- **Backend:** Spring Boot, SQL  
+- **IT & Infrastructure:** Active Directory, SCCM, ticketing systems, hardware/software troubleshooting  
 
 ---
 
 ## 🌟 Featured Projects  
 
-### 🎮 [Raiders of Haven](https://vrchat.com/home/launch?worldId=wrld_61f13d37-2af5-4f46-812a-275a35ad174b&instanceId=0)  
-An immersive VRChat world where players explore, interact, and engage in dynamic adventures.  
-- **Technologies**: Unity, Blender, U#, C#  
-- **Key Features**: Performance-optimized scripting, game-ready asset creation, and collaborative development.  
+### 🎮 [Raiders of Haven (VRChat)](https://vrchat.com/home/launch?worldId=wrld_61f13d37-2af5-4f46-812a-275a35ad174b&instanceId=0)  
+Explore an immersive VRChat world with dynamic gameplay and polished design.  
+- **Tech:** Unity, Blender, U#, C#  
+- **Highlights:** Performance-tuned scripting, seamless multiplayer interaction, and creative asset pipelines.  
 
-### 🤖 [Cat-Kun Discord Bot](https://github.com/KittehKun/Cat-Kun-Discord-Bot/tree/master)  
-A customizable Discord bot designed to enhance server engagement with unique features.  
-- **Technologies**: Python, Discord API  
-- **Key Features**: Command automation, server management tools, and modular design.  
+### 🤖 [Cat-Kun Discord Bot](https://github.com/KittehKun/Cat-Kun-Discord-Bot)  
+A modular, Python-powered Discord bot to boost community engagement.  
+- **Tech:** Python, Discord API  
+- **Highlights:** Automated commands, server moderation tools, and plugin-friendly architecture.  
 
-### 🖥️ [Moving Cat Website](https://github.com/KittehKun/Moving-Cat-Website)
-A fun little project where a random cat picture is loaded to the webpage and bounces around the borders of the user's screen.
-- **Technologies:**: Astro, Javascript, CSS
-- **Key Features**: Fun project, Front-End design, CSS
+### 🖥️ [Moving Cat Website](https://github.com/KittehKun/Moving-Cat-Website)  
+A playful front-end project with bouncing cat images using Astro and JavaScript.  
+- **Tech:** Astro, JavaScript, CSS  
+- **Highlights:** Fun animation, responsive design, and clean front-end logic.  
+
+### 🌐 [VRChat Portfolio Site (In Progress)]  
+Showcasing VRChat projects and personal portfolio built with React, TypeScript, and Tailwind CSS.  
+- **Tech:** React, TypeScript, Tailwind CSS, Vite  
+- **Goals:** Fast, responsive, and modern UI with smooth developer experience.  
 
 ---
 
@@ -48,11 +59,12 @@ A fun little project where a random cat picture is loaded to the webpage and bou
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Let's Connect  
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zachary-hunt-se/)  
-- 💻 [Portfolio Website](https://zachary-hunt.netlify.app)  
+- 💻 [Portfolio Website](https://zachary-hunt.netlify.app)
+- 🛠️ [Freelancing IT Services](https://zhunt-tech.netlify.app)
 
 ---
 
-Feel free to explore my repositories, fork projects, or reach out for collaboration opportunities. Let’s create something amazing together! 🚀
+Feel free to explore my projects, open issues, or reach out for collaboration.
