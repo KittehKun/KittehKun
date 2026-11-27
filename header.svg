@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/><stop offset="60%" stop-color="#120304"/><stop offset="100%" stop-color="#3a0508"/>
+    </linearGradient>
+    <linearGradient id="slash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a0a10"/><stop offset="100%" stop-color="#e01b24"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity="0.025"/></pattern>
+  </defs>
+  <rect width="1000" height="220" rx="6" fill="url(#bg)"/>
+  <polygon points="800,0 1000,0 1000,220 680,220" fill="url(#slash)" opacity="0.9"/>
+  <polygon points="760,0 782,0 662,220 640,220" fill="#e01b24"/>
+  <polygon points="730,0 740,0 620,220 610,220" fill="#e01b24" opacity="0.5"/>
+  <rect width="1000" height="220" rx="6" fill="url(#scan)"/>
+  <rect x="48" y="54" width="6" height="112" fill="#e01b24"/>
+  <text x="74" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="66" font-weight="900" fill="#ffffff" letter-spacing="1">KITTEHKUN</text>
+  <text x="76" y="156" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" fill="#e01b24" letter-spacing="4">GAME DEVELOPER  //  VR &amp; MULTIPLAYER</text>
+  <g fill="none" stroke="#ffffff" stroke-width="2" opacity="0.85">
+    <path d="M940,40 h24 v24"/><path d="M964,156 v24 h-24"/>
+  </g>
+</svg>

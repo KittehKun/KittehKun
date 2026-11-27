@@ -1,10 +1,10 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:e8590c&height=200&section=header&text=KittehKun&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Game%20Developer%20%7C%20VR%20%26%20Multiplayer&descAlignY=60&descSize=20" />
+  <img src="header.svg" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E8590C&center=true&vCenter=true&width=600&lines=Building+VR+games+in+Unity+%26+C%23;Ashpoint%3A+Zero+%E2%80%94+60k%2B+visits+in+week+one;Fish!+%E2%80%94+10M%2B+visits+on+VRChat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E01B24&center=true&vCenter=true&width=600&lines=Building+VR+games+in+Unity+%26+C%23;Ashpoint%3A+Zero+%E2%80%94+60k%2B+visits+in+week+one;Fish!+%E2%80%94+10M%2B+visits+on+VRChat" />
 </p>
 
 # Introduction
@@ -16,9 +16,9 @@ Right now I'm building **[Ashpoint: Zero](https://vrch.at/wrld_3d6c9459-c83e-446
 I also stream game dev as a VTuber, and my day job is in IT.
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/UdonSharp-1f1f1f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UdonSharp-0f766e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,7 +27,7 @@ I also stream game dev as a VTuber, and my day job is in IT.
 
 <p>
   <a href="https://www.linkedin.com/in/zachary-hunt-se/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://zachary-hunt.netlify.app"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=netlify&logoColor=white" /></a>
+  <a href="https://zachary-hunt.netlify.app"><img src="https://img.shields.io/badge/Portfolio-e01b24?style=flat-square" /></a>
   <a href="https://www.youtube.com/@KittehKun"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="https://www.twitch.tv/kittehkun"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@kittehkun"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
@@ -47,7 +47,7 @@ I also stream game dev as a VTuber, and my day job is in IT.
 | **Tech** | Custom Unity editor tools, Blender → Unity pipeline, heavy VR optimization |
 | **Reach** | Localized in English and Japanese |
 
-<a href="https://vrch.at/wrld_3d6c9459-c83e-446f-885e-a728bbed339f"><img src="https://img.shields.io/badge/Play_on_VRChat-e8590c?style=for-the-badge" /></a>
+<a href="https://vrch.at/wrld_3d6c9459-c83e-446f-885e-a728bbed339f"><img src="https://img.shields.io/badge/Play_on_VRChat-e01b24?style=for-the-badge" /></a>
 <a href="https://discord.gg/U4b9rSSK6m"><img src="https://img.shields.io/badge/Join_the_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 ---
@@ -79,6 +79,3 @@ I also stream game dev as a VTuber, and my day job is in IT.
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8590c,100:1a1b27&height=100&section=footer" />
-</p>
