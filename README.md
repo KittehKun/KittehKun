@@ -32,9 +32,12 @@ I also stream game dev as a VTuber, and my day job is in IT.
 
 # Projects
 
-<!-- FEATURED: swap the comment below for a screenshot or GIF of Ashpoint, e.g. <img src="ashpoint.gif" width="100%" /> -->
+
 
 ## [Ashpoint: Zero](https://vrch.at/wrld_3d6c9459-c83e-446f-885e-a728bbed339f)
+
+<img src="images/ashpoint-lz.png" width="100%" />
+
 **A PvE extraction shooter for VRChat, built solo.** You start in a hub bunker with other players, then drop onto an open island to fight PMCs and Scavs, loot what you can, and extract before you lose everything.
 
 | | |
