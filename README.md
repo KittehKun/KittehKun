@@ -52,12 +52,12 @@ I also stream game dev as a VTuber, and my day job is in IT.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Fish!</h3>
+      <h3><a href="https://vrch.at/wrld_ae001ea3-ed05-42f0-adf2-3d47efd10a77">Fish!</a></h3>
       <sub>Co-founder &amp; Lead Programmer · TrickForge Studios</sub>
       <p>A VRChat fishing game with <b>10M+ visits</b>. It reached <b>#1 in VRChat's Creator Economy</b> and VRChat featured it in an official case study. I led programming across a 250+ script codebase.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Raiders of Haven &amp; Crimson Streets</h3>
+      <h3><a href="https://vrch.at/wrld_61f13d37-2af5-4f46-812a-275a35ad174b">Raiders of Haven</a> &amp; <a href="https://vrch.at/wrld_6e281967-ae43-4abc-83bc-a02fcf99c874">Crimson Streets</a></h3>
       <sub>VRChat worlds</sub>
       <p>My earlier VRChat worlds. Working on them is how I learned to make multiplayer VR run smoothly on the hardware real players have.</p>
     </td>
